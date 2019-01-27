@@ -1,0 +1,6 @@
+wc optoins = -w (word) -l (line), and -c (byte count)
+wc -cwl file.txt
+32  96 817 my-phonebook.txt
+32 words
+96 lines
+817 bytes
